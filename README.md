@@ -7,6 +7,7 @@ Este projeto foi desenvolvido durante o curso **"React: comece seu projeto full 
 ## 📸 Preview do Projeto
 
 ![Preview do Alura Books](./src/imagens/imagem.PNG)
+Acesse o projeto hospedado no Vercel: [Alura Books - Vercel](https://react-website-books.vercel.app/)
 
 ## Objetivos do Curso 🎯
 
