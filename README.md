@@ -4,6 +4,10 @@
 
 Este projeto foi desenvolvido durante o curso **"React: comece seu projeto full stack"** da [Alura](https://cursos.alura.com.br/course/react-crie-primeira-pagina-web). O objetivo foi criar uma **landing page** simples para o site **Alura Books**, aplicando os conceitos básicos do React.
 
+## 📸 Preview do Projeto
+
+![Preview do Alura Books](./src/imagens/imagem.PNG)
+
 ## Objetivos do Curso 🎯
 
 - Compreender os conhecimentos básicos teóricos e práticos de **React**.
@@ -24,10 +28,6 @@ Este projeto foi desenvolvido durante o curso **"React: comece seu projeto full 
 - Seção "**Já sabe por onde começar?**" com um campo para inserir o nome do livro.
 - Lista de **últimos lançamentos** com todos os livros mais recentes.
 - Seção "**Talvez você se interesse por...**" com sugestões de livros.
-
-## 📸 Preview do Projeto
-
-![Preview do Alura Books](./src/imagens/imagem.PNG)
 
 ## Tecnologias Utilizadas ⚛️
 
