@@ -12,11 +12,10 @@ const UltimosLancamentosContainer = styled.section`
 `
 
 const NovosLivrosContainer = styled.div`
-    max-width: 90vw;
+    align-items: center;
     flex-wrap: wrap;
     margin-top: 30px;
     display: flex;
-    width: 100%;
     justify-content: center;
     cursor: pointer;
 `
